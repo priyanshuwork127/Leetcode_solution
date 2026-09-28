@@ -1,0 +1,14 @@
+{
+  "problems": {
+    "1737-maximum-nesting-depth-of-the-parentheses": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-09-28T10:40:28.402Z",
+      "lang": "cpp",
+      "title": "Maximum Nesting Depth of the Parentheses"
+    }
+  },
+  "solved": 1,
+  "easy": 1,
+  "medium": 0,
+  "hard": 0
+}
