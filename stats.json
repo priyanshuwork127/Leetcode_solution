@@ -2,13 +2,19 @@
   "problems": {
     "1737-maximum-nesting-depth-of-the-parentheses": {
       "difficulty": "Easy",
-      "solvedAt": "2026-09-28T10:40:28.402Z",
       "lang": "cpp",
+      "solvedAt": "2026-09-28T10:40:28.402Z",
       "title": "Maximum Nesting Depth of the Parentheses"
+    },
+    "3811-reverse-degree-of-a-string": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-02T14:49:16.479Z",
+      "lang": "cpp",
+      "title": "Reverse Degree of a String"
     }
   },
-  "solved": 1,
-  "easy": 1,
+  "solved": 2,
+  "easy": 2,
   "medium": 0,
   "hard": 0
 }
