@@ -1,0 +1,14 @@
+{
+  "problems": {
+    "0001-two-sum": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-07T10:14:33.384Z",
+      "lang": "cpp",
+      "title": "Two Sum"
+    }
+  },
+  "solved": 1,
+  "easy": 1,
+  "medium": 0,
+  "hard": 0
+}
