@@ -2,13 +2,19 @@
   "problems": {
     "0001-two-sum": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-07T10:14:33.384Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-07T10:14:33.384Z",
       "title": "Two Sum"
+    },
+    "0543-diameter-of-binary-tree": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-08T05:07:43.212Z",
+      "lang": "cpp",
+      "title": "Diameter of Binary Tree"
     }
   },
-  "solved": 1,
-  "easy": 1,
+  "solved": 2,
+  "easy": 2,
   "medium": 0,
   "hard": 0
 }
