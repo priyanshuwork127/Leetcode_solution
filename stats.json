@@ -8,13 +8,19 @@
     },
     "0543-diameter-of-binary-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-08T05:07:43.212Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-08T05:07:43.212Z",
       "title": "Diameter of Binary Tree"
+    },
+    "1648-minimum-insertions-to-balance-a-parentheses-string": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-09T14:44:12.325Z",
+      "lang": "cpp",
+      "title": "Minimum Insertions to Balance a Parentheses String"
     }
   },
-  "solved": 2,
+  "solved": 3,
   "easy": 2,
-  "medium": 0,
+  "medium": 1,
   "hard": 0
 }
