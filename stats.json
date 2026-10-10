@@ -14,13 +14,19 @@
     },
     "1648-minimum-insertions-to-balance-a-parentheses-string": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-09T14:44:12.325Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-09T14:44:12.325Z",
       "title": "Minimum Insertions to Balance a Parentheses String"
+    },
+    "2384-root-equals-sum-of-children": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-10T17:24:40.610Z",
+      "lang": "cpp",
+      "title": "Root Equals Sum of Children"
     }
   },
-  "solved": 3,
-  "easy": 2,
+  "solved": 4,
+  "easy": 3,
   "medium": 1,
   "hard": 0
 }
