@@ -20,13 +20,19 @@
     },
     "2384-root-equals-sum-of-children": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-10T17:24:40.610Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-10T17:24:40.610Z",
       "title": "Root Equals Sum of Children"
+    },
+    "2844-sum-of-squares-of-special-elements": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-11T12:16:08.724Z",
+      "lang": "cpp",
+      "title": "Sum of Squares of Special Elements "
     }
   },
-  "solved": 4,
-  "easy": 3,
+  "solved": 5,
+  "easy": 4,
   "medium": 1,
   "hard": 0
 }
