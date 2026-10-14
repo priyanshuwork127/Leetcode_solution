@@ -32,13 +32,19 @@
     },
     "2502-sort-the-people": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-12T15:27:49.921Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-12T15:27:49.921Z",
       "title": "Sort the People"
+    },
+    "0098-validate-binary-search-tree": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-14T16:41:06.914Z",
+      "lang": "cpp",
+      "title": "Validate Binary Search Tree"
     }
   },
-  "solved": 6,
+  "solved": 7,
   "easy": 5,
-  "medium": 1,
+  "medium": 2,
   "hard": 0
 }
