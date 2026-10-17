@@ -38,13 +38,19 @@
     },
     "0098-validate-binary-search-tree": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-14T16:41:06.914Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-14T16:41:06.914Z",
       "title": "Validate Binary Search Tree"
+    },
+    "0114-flatten-binary-tree-to-linked-list": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-17T15:31:10.212Z",
+      "lang": "cpp",
+      "title": "Flatten Binary Tree to Linked List"
     }
   },
-  "solved": 7,
+  "solved": 8,
   "easy": 5,
-  "medium": 2,
+  "medium": 3,
   "hard": 0
 }
