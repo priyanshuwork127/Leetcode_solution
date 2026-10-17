@@ -44,7 +44,7 @@
     },
     "0114-flatten-binary-tree-to-linked-list": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-17T15:31:10.212Z",
+      "solvedAt": "2026-10-17T15:41:36.941Z",
       "lang": "cpp",
       "title": "Flatten Binary Tree to Linked List"
     }
