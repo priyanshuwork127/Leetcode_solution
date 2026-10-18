@@ -50,13 +50,19 @@
     },
     "4430-minimum-deletions-to-make-array-sharp": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-18T02:38:14.438Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-18T02:38:14.438Z",
       "title": "Minimum Deletions to Make Array Sharp"
+    },
+    "4456-last-visited-cell-in-a-directional-grid": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-18T03:05:48.670Z",
+      "lang": "cpp",
+      "title": "Last Visited Cell in a Directional Grid"
     }
   },
-  "solved": 9,
+  "solved": 10,
   "easy": 6,
-  "medium": 3,
+  "medium": 4,
   "hard": 0
 }
