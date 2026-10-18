@@ -44,13 +44,19 @@
     },
     "0114-flatten-binary-tree-to-linked-list": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-17T15:41:36.941Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-17T15:41:36.941Z",
       "title": "Flatten Binary Tree to Linked List"
+    },
+    "4430-minimum-deletions-to-make-array-sharp": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-18T02:38:14.438Z",
+      "lang": "cpp",
+      "title": "Minimum Deletions to Make Array Sharp"
     }
   },
-  "solved": 8,
-  "easy": 5,
+  "solved": 9,
+  "easy": 6,
   "medium": 3,
   "hard": 0
 }
