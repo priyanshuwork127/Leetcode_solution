@@ -5,7 +5,8 @@ public:
         int col=grid[0].size();
         int sr=0;
         int sc=0;
-        while(true){
+        bool t=true;
+        while(t){
             char ch=grid[sr][sc];
             grid[sr][sc]='#';
             int nextr=sr;
@@ -24,6 +25,7 @@ public:
             }
                 
             if(nextr<0 || nextc<0 || nextr>=row || nextc>=col||grid[nextr][nextc]=='#'){
+                t=false;
                 break;
             }
             sr=nextr;
