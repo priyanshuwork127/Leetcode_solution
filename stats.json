@@ -68,13 +68,19 @@
     },
     "0886-score-of-parentheses": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-19T15:08:45.724Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-19T15:08:45.724Z",
       "title": "Score of Parentheses"
+    },
+    "0443-string-compression": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-19T15:39:30.174Z",
+      "lang": "cpp",
+      "title": "String Compression"
     }
   },
-  "solved": 12,
+  "solved": 13,
   "easy": 6,
-  "medium": 6,
+  "medium": 7,
   "hard": 0
 }
