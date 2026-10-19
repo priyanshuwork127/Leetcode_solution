@@ -56,13 +56,19 @@
     },
     "4456-last-visited-cell-in-a-directional-grid": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-18T03:07:45.908Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-18T03:07:45.908Z",
       "title": "Last Visited Cell in a Directional Grid"
+    },
+    "0735-asteroid-collision": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-19T14:13:56.821Z",
+      "lang": "cpp",
+      "title": "Asteroid Collision"
     }
   },
-  "solved": 10,
+  "solved": 11,
   "easy": 6,
-  "medium": 4,
+  "medium": 5,
   "hard": 0
 }
