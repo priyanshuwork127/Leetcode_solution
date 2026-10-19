@@ -62,13 +62,19 @@
     },
     "0735-asteroid-collision": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-19T14:13:56.821Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-19T14:13:56.821Z",
       "title": "Asteroid Collision"
+    },
+    "0886-score-of-parentheses": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-19T15:08:45.724Z",
+      "lang": "cpp",
+      "title": "Score of Parentheses"
     }
   },
-  "solved": 11,
+  "solved": 12,
   "easy": 6,
-  "medium": 5,
+  "medium": 6,
   "hard": 0
 }
