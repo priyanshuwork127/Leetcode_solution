@@ -74,13 +74,19 @@
     },
     "0443-string-compression": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-19T15:39:30.174Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-19T15:39:30.174Z",
       "title": "String Compression"
+    },
+    "0129-sum-root-to-leaf-numbers": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-20T15:55:50.804Z",
+      "lang": "cpp",
+      "title": "Sum Root to Leaf Numbers"
     }
   },
-  "solved": 13,
+  "solved": 14,
   "easy": 6,
-  "medium": 7,
+  "medium": 8,
   "hard": 0
 }
