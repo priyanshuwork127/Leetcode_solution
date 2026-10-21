@@ -80,13 +80,19 @@
     },
     "0129-sum-root-to-leaf-numbers": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-20T15:55:50.804Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-20T15:55:50.804Z",
       "title": "Sum Root to Leaf Numbers"
+    },
+    "0008-string-to-integer-atoi": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-21T18:10:17.935Z",
+      "lang": "cpp",
+      "title": "String to Integer (atoi)"
     }
   },
-  "solved": 14,
+  "solved": 15,
   "easy": 6,
-  "medium": 8,
+  "medium": 9,
   "hard": 0
 }
