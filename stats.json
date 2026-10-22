@@ -116,7 +116,7 @@
     },
     "0172-factorial-trailing-zeroes": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-22T05:07:36.978Z",
+      "solvedAt": "2026-10-22T05:11:19.611Z",
       "lang": "cpp",
       "title": "Factorial Trailing Zeroes"
     }
