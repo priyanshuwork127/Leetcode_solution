@@ -86,13 +86,19 @@
     },
     "0008-string-to-integer-atoi": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-22T04:02:33.767Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T04:02:33.767Z",
       "title": "String to Integer (atoi)"
+    },
+    "0225-implement-stack-using-queues": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-22T04:06:38.148Z",
+      "lang": "cpp",
+      "title": "Implement Stack using Queues"
     }
   },
-  "solved": 15,
-  "easy": 6,
+  "solved": 16,
+  "easy": 7,
   "medium": 9,
   "hard": 0
 }
