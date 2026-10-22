@@ -98,13 +98,19 @@
     },
     "0150-evaluate-reverse-polish-notation": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-22T04:44:40.990Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T04:44:40.990Z",
       "title": "Evaluate Reverse Polish Notation"
+    },
+    "0232-implement-queue-using-stacks": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-22T04:54:31.350Z",
+      "lang": "cpp",
+      "title": "Implement Queue using Stacks"
     }
   },
-  "solved": 17,
-  "easy": 7,
+  "solved": 18,
+  "easy": 8,
   "medium": 10,
   "hard": 0
 }
