@@ -110,13 +110,19 @@
     },
     "0860-design-circular-queue": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-22T05:01:00.375Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T05:01:00.375Z",
       "title": "Design Circular Queue"
+    },
+    "0172-factorial-trailing-zeroes": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-22T05:07:36.978Z",
+      "lang": "cpp",
+      "title": "Factorial Trailing Zeroes"
     }
   },
-  "solved": 19,
+  "solved": 20,
   "easy": 8,
-  "medium": 11,
+  "medium": 12,
   "hard": 0
 }
