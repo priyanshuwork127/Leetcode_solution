@@ -86,7 +86,7 @@
     },
     "0008-string-to-integer-atoi": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-21T18:10:17.935Z",
+      "solvedAt": "2026-10-22T04:02:33.767Z",
       "lang": "cpp",
       "title": "String to Integer (atoi)"
     }
