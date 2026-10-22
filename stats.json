@@ -104,13 +104,19 @@
     },
     "0232-implement-queue-using-stacks": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-22T04:54:31.350Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T04:54:31.350Z",
       "title": "Implement Queue using Stacks"
+    },
+    "0860-design-circular-queue": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-22T05:01:00.375Z",
+      "lang": "cpp",
+      "title": "Design Circular Queue"
     }
   },
-  "solved": 18,
+  "solved": 19,
   "easy": 8,
-  "medium": 10,
+  "medium": 11,
   "hard": 0
 }
