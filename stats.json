@@ -116,13 +116,19 @@
     },
     "0172-factorial-trailing-zeroes": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-22T05:11:19.611Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T05:11:19.611Z",
       "title": "Factorial Trailing Zeroes"
+    },
+    "2106-find-greatest-common-divisor-of-array": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-22T05:22:19.875Z",
+      "lang": "cpp",
+      "title": "Find Greatest Common Divisor of Array"
     }
   },
-  "solved": 20,
-  "easy": 8,
+  "solved": 21,
+  "easy": 9,
   "medium": 12,
   "hard": 0
 }
