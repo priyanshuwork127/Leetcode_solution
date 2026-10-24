@@ -128,13 +128,19 @@
     },
     "4436-difference-between-peaks-and-valleys": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-24T14:35:22.845Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-24T14:35:22.845Z",
       "title": "Difference Between Peaks and Valleys"
+    },
+    "4391-count-subarrays-with-loose-bounds": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-24T15:24:33.451Z",
+      "lang": "cpp",
+      "title": "Count Subarrays With Loose Bounds"
     }
   },
-  "solved": 22,
+  "solved": 23,
   "easy": 10,
-  "medium": 12,
+  "medium": 13,
   "hard": 0
 }
