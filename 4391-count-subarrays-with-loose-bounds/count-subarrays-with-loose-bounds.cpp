@@ -6,14 +6,14 @@ public:
         int j = -1;
         int k = -1;
         for (int x = 0; x < nums.size(); x++) {
-            if (nums[x] < minK || nums[x] > maxK) {
-                k = x;
-            }
             if (nums[x] >= minK) {
                 i=x;
             }
             if (nums[x] <= maxK) {
                 j=x;
+            }
+            if (nums[x] < minK || nums[x] > maxK) {
+                k = x;
             }
             ans += max(0, (min(i, j) - k));
         }
