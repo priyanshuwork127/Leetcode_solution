@@ -134,13 +134,19 @@
     },
     "4391-count-subarrays-with-loose-bounds": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-24T15:54:14.190Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-24T15:54:14.190Z",
       "title": "Count Subarrays With Loose Bounds"
+    },
+    "2496-count-days-spent-together": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-24T16:17:56.325Z",
+      "lang": "cpp",
+      "title": "Count Days Spent Together"
     }
   },
-  "solved": 23,
-  "easy": 10,
+  "solved": 24,
+  "easy": 11,
   "medium": 13,
   "hard": 0
 }
