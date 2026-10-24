@@ -122,13 +122,19 @@
     },
     "2106-find-greatest-common-divisor-of-array": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-22T05:22:19.875Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-22T05:22:19.875Z",
       "title": "Find Greatest Common Divisor of Array"
+    },
+    "4436-difference-between-peaks-and-valleys": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-24T14:35:22.845Z",
+      "lang": "cpp",
+      "title": "Difference Between Peaks and Valleys"
     }
   },
-  "solved": 21,
-  "easy": 9,
+  "solved": 22,
+  "easy": 10,
   "medium": 12,
   "hard": 0
 }
