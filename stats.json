@@ -134,7 +134,7 @@
     },
     "4391-count-subarrays-with-loose-bounds": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-24T15:51:34.686Z",
+      "solvedAt": "2026-10-24T15:54:14.190Z",
       "lang": "cpp",
       "title": "Count Subarrays With Loose Bounds"
     }
