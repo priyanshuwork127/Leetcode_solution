@@ -15,7 +15,10 @@ bool image(TreeNode* rleft,TreeNode* rright){
     if(rleft==nullptr && rright==nullptr){
         return true;
     }
-    if(rleft==nullptr || rright ==nullptr){
+    if(rleft==nullptr && rright !=nullptr){
+        return false;
+    }
+    if(rleft!=nullptr && rright ==nullptr){
         return false;
     }
     if(rleft->val!=rright->val){
