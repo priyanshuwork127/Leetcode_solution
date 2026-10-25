@@ -140,13 +140,19 @@
     },
     "2496-count-days-spent-together": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-24T16:17:56.325Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-24T16:17:56.325Z",
       "title": "Count Days Spent Together"
+    },
+    "0101-symmetric-tree": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-25T16:00:10.708Z",
+      "lang": "cpp",
+      "title": "Symmetric Tree"
     }
   },
-  "solved": 24,
-  "easy": 11,
+  "solved": 25,
+  "easy": 12,
   "medium": 13,
   "hard": 0
 }
