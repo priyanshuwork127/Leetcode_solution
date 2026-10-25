@@ -146,7 +146,7 @@
     },
     "0101-symmetric-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-25T16:00:10.708Z",
+      "solvedAt": "2026-10-25T16:02:37.579Z",
       "lang": "cpp",
       "title": "Symmetric Tree"
     }
