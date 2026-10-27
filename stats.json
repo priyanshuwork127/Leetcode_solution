@@ -146,13 +146,19 @@
     },
     "0101-symmetric-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-25T16:02:37.579Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-25T16:02:37.579Z",
       "title": "Symmetric Tree"
+    },
+    "0783-search-in-a-binary-search-tree": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-27T17:18:28.204Z",
+      "lang": "cpp",
+      "title": "Search in a Binary Search Tree"
     }
   },
-  "solved": 25,
-  "easy": 12,
+  "solved": 26,
+  "easy": 13,
   "medium": 13,
   "hard": 0
 }
