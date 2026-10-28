@@ -152,13 +152,19 @@
     },
     "0783-search-in-a-binary-search-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-27T17:18:28.204Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-27T17:18:28.204Z",
       "title": "Search in a Binary Search Tree"
+    },
+    "1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-10-28T17:16:29.717Z",
+      "lang": "cpp",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
     }
   },
-  "solved": 26,
-  "easy": 13,
+  "solved": 27,
+  "easy": 14,
   "medium": 13,
   "hard": 0
 }
