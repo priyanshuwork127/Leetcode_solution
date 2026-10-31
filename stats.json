@@ -158,13 +158,19 @@
     },
     "1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-10-28T17:16:29.717Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-28T17:16:29.717Z",
       "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
+    },
+    "0103-binary-tree-zigzag-level-order-traversal": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-10-31T16:11:29.987Z",
+      "lang": "cpp",
+      "title": "Binary Tree Zigzag Level Order Traversal"
     }
   },
-  "solved": 27,
+  "solved": 28,
   "easy": 14,
-  "medium": 13,
+  "medium": 14,
   "hard": 0
 }
