@@ -170,13 +170,19 @@
     },
     "4448-minimum-value-of-merged-integers": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-01T02:35:21.471Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-01T02:35:21.471Z",
       "title": "Minimum Value of Merged Integers"
+    },
+    "0162-find-peak-element": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-01T16:28:57.885Z",
+      "lang": "cpp",
+      "title": "Find Peak Element"
     }
   },
-  "solved": 29,
+  "solved": 30,
   "easy": 15,
-  "medium": 14,
+  "medium": 15,
   "hard": 0
 }
