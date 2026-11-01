@@ -176,13 +176,19 @@
     },
     "0162-find-peak-element": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-01T16:31:59.213Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-01T16:31:59.213Z",
       "title": "Find Peak Element"
+    },
+    "0540-single-element-in-a-sorted-array": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-01T16:52:20.610Z",
+      "lang": "cpp",
+      "title": "Single Element in a Sorted Array"
     }
   },
-  "solved": 30,
+  "solved": 31,
   "easy": 15,
-  "medium": 15,
+  "medium": 16,
   "hard": 0
 }
