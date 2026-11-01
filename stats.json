@@ -176,7 +176,7 @@
     },
     "0162-find-peak-element": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-01T16:28:57.885Z",
+      "solvedAt": "2026-11-01T16:31:59.213Z",
       "lang": "cpp",
       "title": "Find Peak Element"
     }
