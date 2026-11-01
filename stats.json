@@ -164,13 +164,19 @@
     },
     "0103-binary-tree-zigzag-level-order-traversal": {
       "difficulty": "Medium",
-      "solvedAt": "2026-10-31T16:11:29.987Z",
       "lang": "cpp",
+      "solvedAt": "2026-10-31T16:11:29.987Z",
       "title": "Binary Tree Zigzag Level Order Traversal"
+    },
+    "4448-minimum-value-of-merged-integers": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-01T02:35:21.471Z",
+      "lang": "cpp",
+      "title": "Minimum Value of Merged Integers"
     }
   },
-  "solved": 28,
-  "easy": 14,
+  "solved": 29,
+  "easy": 15,
   "medium": 14,
   "hard": 0
 }
