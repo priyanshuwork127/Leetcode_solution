@@ -182,13 +182,19 @@
     },
     "0540-single-element-in-a-sorted-array": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-01T16:52:20.610Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-01T16:52:20.610Z",
       "title": "Single Element in a Sorted Array"
+    },
+    "4116-minimum-moves-to-equal-array-elements-iii": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-03T00:45:49.090Z",
+      "lang": "cpp",
+      "title": "Minimum Moves to Equal Array Elements III"
     }
   },
-  "solved": 31,
-  "easy": 15,
+  "solved": 32,
+  "easy": 16,
   "medium": 16,
   "hard": 0
 }
