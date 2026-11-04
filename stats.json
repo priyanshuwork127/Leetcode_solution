@@ -194,13 +194,19 @@
     },
     "4449-binary-digit-score": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-04T03:41:36.561Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-04T03:41:36.561Z",
       "title": "Binary Digit Score"
+    },
+    "0394-decode-string": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-04T04:07:00.499Z",
+      "lang": "cpp",
+      "title": "Decode String"
     }
   },
-  "solved": 33,
+  "solved": 34,
   "easy": 17,
-  "medium": 16,
+  "medium": 17,
   "hard": 0
 }
