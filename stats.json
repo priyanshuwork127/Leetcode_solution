@@ -188,13 +188,19 @@
     },
     "4116-minimum-moves-to-equal-array-elements-iii": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-03T00:45:49.090Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-03T00:45:49.090Z",
       "title": "Minimum Moves to Equal Array Elements III"
+    },
+    "4449-binary-digit-score": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-04T03:41:36.561Z",
+      "lang": "cpp",
+      "title": "Binary Digit Score"
     }
   },
-  "solved": 32,
-  "easy": 16,
+  "solved": 33,
+  "easy": 17,
   "medium": 16,
   "hard": 0
 }
