@@ -200,13 +200,19 @@
     },
     "0394-decode-string": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-04T04:07:00.499Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-04T04:07:00.499Z",
       "title": "Decode String"
+    },
+    "4467-count-valid-substrings-i": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-07T14:49:25.931Z",
+      "lang": "cpp",
+      "title": "Count Valid Substrings I"
     }
   },
-  "solved": 34,
+  "solved": 35,
   "easy": 17,
-  "medium": 17,
+  "medium": 18,
   "hard": 0
 }
