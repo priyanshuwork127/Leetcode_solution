@@ -206,13 +206,19 @@
     },
     "4467-count-valid-substrings-i": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-07T14:49:25.931Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-07T14:49:25.931Z",
       "title": "Count Valid Substrings I"
+    },
+    "4432-find-mismatched-segments-between-two-strings": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-08T02:49:01.373Z",
+      "lang": "cpp",
+      "title": "Find Mismatched Segments Between Two Strings"
     }
   },
-  "solved": 35,
+  "solved": 36,
   "easy": 17,
-  "medium": 18,
+  "medium": 19,
   "hard": 0
 }
