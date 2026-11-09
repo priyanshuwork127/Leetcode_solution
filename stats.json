@@ -212,13 +212,19 @@
     },
     "4432-find-mismatched-segments-between-two-strings": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-08T02:49:01.373Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-08T02:49:01.373Z",
       "title": "Find Mismatched Segments Between Two Strings"
+    },
+    "0078-subsets": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-09T14:33:17.696Z",
+      "lang": "cpp",
+      "title": "Subsets"
     }
   },
-  "solved": 36,
+  "solved": 37,
   "easy": 17,
-  "medium": 19,
+  "medium": 20,
   "hard": 0
 }
