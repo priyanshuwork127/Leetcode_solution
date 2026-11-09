@@ -218,13 +218,19 @@
     },
     "0078-subsets": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-09T14:33:17.696Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-09T14:33:17.696Z",
       "title": "Subsets"
+    },
+    "0090-subsets-ii": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-09T14:45:00.160Z",
+      "lang": "cpp",
+      "title": "Subsets II"
     }
   },
-  "solved": 37,
+  "solved": 38,
   "easy": 17,
-  "medium": 20,
+  "medium": 21,
   "hard": 0
 }
