@@ -224,13 +224,19 @@
     },
     "0090-subsets-ii": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-09T14:45:00.160Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-09T14:45:00.160Z",
       "title": "Subsets II"
+    },
+    "0022-generate-parentheses": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-10T04:13:22.090Z",
+      "lang": "cpp",
+      "title": "Generate Parentheses"
     }
   },
-  "solved": 38,
+  "solved": 39,
   "easy": 17,
-  "medium": 21,
+  "medium": 22,
   "hard": 0
 }
