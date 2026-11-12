@@ -230,13 +230,19 @@
     },
     "0022-generate-parentheses": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-10T04:13:22.090Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-10T04:13:22.090Z",
       "title": "Generate Parentheses"
+    },
+    "1993-sum-of-all-subset-xor-totals": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-12T05:07:44.378Z",
+      "lang": "cpp",
+      "title": "Sum of All Subset XOR Totals"
     }
   },
-  "solved": 39,
-  "easy": 17,
+  "solved": 40,
+  "easy": 18,
   "medium": 22,
   "hard": 0
 }
