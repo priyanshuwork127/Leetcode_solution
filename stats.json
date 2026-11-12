@@ -248,13 +248,19 @@
     },
     "0039-combination-sum": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-12T05:49:33.022Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-12T05:49:33.022Z",
       "title": "Combination Sum"
+    },
+    "0040-combination-sum-ii": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-12T06:05:30.932Z",
+      "lang": "cpp",
+      "title": "Combination Sum II"
     }
   },
-  "solved": 42,
+  "solved": 43,
   "easy": 18,
-  "medium": 24,
+  "medium": 25,
   "hard": 0
 }
