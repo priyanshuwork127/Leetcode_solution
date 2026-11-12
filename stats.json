@@ -236,13 +236,19 @@
     },
     "1993-sum-of-all-subset-xor-totals": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-12T05:07:44.378Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-12T05:07:44.378Z",
       "title": "Sum of All Subset XOR Totals"
+    },
+    "0077-combinations": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-12T05:33:05.613Z",
+      "lang": "cpp",
+      "title": "Combinations"
     }
   },
-  "solved": 40,
+  "solved": 41,
   "easy": 18,
-  "medium": 22,
+  "medium": 23,
   "hard": 0
 }
