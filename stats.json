@@ -242,13 +242,19 @@
     },
     "0077-combinations": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-12T05:33:05.613Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-12T05:33:05.613Z",
       "title": "Combinations"
+    },
+    "0039-combination-sum": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-12T05:49:33.022Z",
+      "lang": "cpp",
+      "title": "Combination Sum"
     }
   },
-  "solved": 41,
+  "solved": 42,
   "easy": 18,
-  "medium": 23,
+  "medium": 24,
   "hard": 0
 }
