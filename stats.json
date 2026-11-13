@@ -272,13 +272,19 @@
     },
     "0107-binary-tree-level-order-traversal-ii": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-13T14:47:16.847Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-13T14:47:16.847Z",
       "title": "Binary Tree Level Order Traversal II"
+    },
+    "0404-sum-of-left-leaves": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-13T14:49:47.699Z",
+      "lang": "cpp",
+      "title": "Sum of Left Leaves"
     }
   },
-  "solved": 46,
-  "easy": 19,
+  "solved": 47,
+  "easy": 20,
   "medium": 27,
   "hard": 0
 }
