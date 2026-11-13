@@ -278,13 +278,19 @@
     },
     "0404-sum-of-left-leaves": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-13T14:49:47.699Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-13T14:49:47.699Z",
       "title": "Sum of Left Leaves"
+    },
+    "0513-find-bottom-left-tree-value": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-13T15:17:28.119Z",
+      "lang": "cpp",
+      "title": "Find Bottom Left Tree Value"
     }
   },
-  "solved": 47,
+  "solved": 48,
   "easy": 20,
-  "medium": 27,
+  "medium": 28,
   "hard": 0
 }
