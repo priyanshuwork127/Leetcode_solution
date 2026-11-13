@@ -266,13 +266,19 @@
     },
     "0637-average-of-levels-in-binary-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-13T14:34:19.100Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-13T14:34:19.100Z",
       "title": "Average of Levels in Binary Tree"
+    },
+    "0107-binary-tree-level-order-traversal-ii": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-13T14:47:16.847Z",
+      "lang": "cpp",
+      "title": "Binary Tree Level Order Traversal II"
     }
   },
-  "solved": 45,
+  "solved": 46,
   "easy": 19,
-  "medium": 26,
+  "medium": 27,
   "hard": 0
 }
