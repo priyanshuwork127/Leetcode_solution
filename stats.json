@@ -260,13 +260,19 @@
     },
     "0216-combination-sum-iii": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-12T06:35:54.798Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-12T06:35:54.798Z",
       "title": "Combination Sum III"
+    },
+    "0637-average-of-levels-in-binary-tree": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-13T14:34:19.100Z",
+      "lang": "cpp",
+      "title": "Average of Levels in Binary Tree"
     }
   },
-  "solved": 44,
-  "easy": 18,
+  "solved": 45,
+  "easy": 19,
   "medium": 26,
   "hard": 0
 }
