@@ -284,13 +284,19 @@
     },
     "0513-find-bottom-left-tree-value": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-13T15:17:28.119Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-13T15:17:28.119Z",
       "title": "Find Bottom Left Tree Value"
+    },
+    "0046-permutations": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-16T17:36:41.583Z",
+      "lang": "cpp",
+      "title": "Permutations"
     }
   },
-  "solved": 48,
+  "solved": 49,
   "easy": 20,
-  "medium": 28,
+  "medium": 29,
   "hard": 0
 }
