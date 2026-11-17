@@ -152,8 +152,8 @@
     },
     "0783-search-in-a-binary-search-tree": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-17T08:12:51.232Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-17T08:12:51.232Z",
       "title": "Search in a Binary Search Tree"
     },
     "1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree": {
@@ -293,10 +293,16 @@
       "lang": "cpp",
       "solvedAt": "2026-11-16T17:36:41.583Z",
       "title": "Permutations"
+    },
+    "0094-binary-tree-inorder-traversal": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-17T09:37:56.228Z",
+      "lang": "cpp",
+      "title": "Binary Tree Inorder Traversal"
     }
   },
-  "solved": 49,
-  "easy": 20,
+  "solved": 50,
+  "easy": 21,
   "medium": 29,
   "hard": 0
 }
