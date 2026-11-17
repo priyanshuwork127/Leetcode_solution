@@ -17,13 +17,12 @@ public:
                 return root;
             }
             else {
-                TreeNode* lef=searchBST(root->left,val);
-                if(lef!=nullptr){
-                    return lef;
+                
+                if(val<root->val){
+                   return searchBST(root->left,val);
                 }
-                TreeNode* RIG=searchBST(root->right,val);
-                if(RIG!=nullptr){
-                    return RIG;
+                else{
+                    return searchBST(root->right,val);
                 }
             }
         }
