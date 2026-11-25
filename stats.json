@@ -344,8 +344,8 @@
     },
     "0657-robot-return-to-origin": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T16:29:56.429Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T16:29:56.429Z",
       "title": "Robot Return to Origin"
     },
     "3515-find-if-digit-game-can-be-won": {
@@ -353,10 +353,16 @@
       "lang": "cpp",
       "solvedAt": "2026-11-25T16:28:31.053Z",
       "title": "Find if Digit Game Can Be Won"
+    },
+    "1950-sign-of-the-product-of-an-array": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T16:30:03.441Z",
+      "lang": "cpp",
+      "title": "Sign of the Product of an Array"
     }
   },
-  "solved": 59,
-  "easy": 30,
+  "solved": 60,
+  "easy": 31,
   "medium": 29,
   "hard": 0
 }
