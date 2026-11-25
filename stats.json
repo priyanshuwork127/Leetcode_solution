@@ -332,13 +332,19 @@
     },
     "3194-find-words-containing-character": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:50:07.695Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:50:07.695Z",
       "title": "Find Words Containing Character"
+    },
+    "2812-find-the-maximum-achievable-number": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T16:02:44.137Z",
+      "lang": "cpp",
+      "title": "Find the Maximum Achievable Number"
     }
   },
-  "solved": 56,
-  "easy": 27,
+  "solved": 57,
+  "easy": 28,
   "medium": 29,
   "hard": 0
 }
