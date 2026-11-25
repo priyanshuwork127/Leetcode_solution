@@ -326,13 +326,19 @@
     },
     "3312-number-of-changing-keys": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:36:51.585Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:36:51.585Z",
       "title": "Number of Changing Keys"
+    },
+    "3194-find-words-containing-character": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T15:50:07.695Z",
+      "lang": "cpp",
+      "title": "Find Words Containing Character"
     }
   },
-  "solved": 55,
-  "easy": 26,
+  "solved": 56,
+  "easy": 27,
   "medium": 29,
   "hard": 0
 }
