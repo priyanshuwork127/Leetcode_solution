@@ -368,13 +368,19 @@
     },
     "0882-peak-index-in-a-mountain-array": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-25T17:12:53.187Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T17:12:53.187Z",
       "title": "Peak Index in a Mountain Array"
+    },
+    "2058-concatenation-of-array": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T17:30:58.692Z",
+      "lang": "cpp",
+      "title": "Concatenation of Array"
     }
   },
-  "solved": 62,
-  "easy": 31,
+  "solved": 63,
+  "easy": 32,
   "medium": 31,
   "hard": 0
 }
