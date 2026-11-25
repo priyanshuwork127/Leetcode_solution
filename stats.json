@@ -308,13 +308,19 @@
     },
     "1960-check-if-the-sentence-is-pangram": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:22:50.869Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:22:50.869Z",
       "title": "Check if the Sentence Is Pangram"
+    },
+    "2231-find-first-palindromic-string-in-the-array": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T15:26:33.534Z",
+      "lang": "cpp",
+      "title": "Find First Palindromic String in the Array"
     }
   },
-  "solved": 52,
-  "easy": 23,
+  "solved": 53,
+  "easy": 24,
   "medium": 29,
   "hard": 0
 }
