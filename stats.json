@@ -344,13 +344,19 @@
     },
     "0657-robot-return-to-origin": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T16:23:20.445Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T16:23:20.445Z",
       "title": "Robot Return to Origin"
+    },
+    "3515-find-if-digit-game-can-be-won": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T16:28:31.053Z",
+      "lang": "cpp",
+      "title": "Find if Digit Game Can Be Won"
     }
   },
-  "solved": 58,
-  "easy": 29,
+  "solved": 59,
+  "easy": 30,
   "medium": 29,
   "hard": 0
 }
