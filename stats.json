@@ -338,13 +338,19 @@
     },
     "2812-find-the-maximum-achievable-number": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T16:02:44.137Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T16:02:44.137Z",
       "title": "Find the Maximum Achievable Number"
+    },
+    "0657-robot-return-to-origin": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T16:23:20.445Z",
+      "lang": "cpp",
+      "title": "Robot Return to Origin"
     }
   },
-  "solved": 57,
-  "easy": 28,
+  "solved": 58,
+  "easy": 29,
   "medium": 29,
   "hard": 0
 }
