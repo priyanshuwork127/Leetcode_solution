@@ -314,13 +314,19 @@
     },
     "2231-find-first-palindromic-string-in-the-array": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:26:33.534Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:26:33.534Z",
       "title": "Find First Palindromic String in the Array"
+    },
+    "1610-xor-operation-in-an-array": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T15:31:18.996Z",
+      "lang": "cpp",
+      "title": "XOR Operation in an Array"
     }
   },
-  "solved": 53,
-  "easy": 24,
+  "solved": 54,
+  "easy": 25,
   "medium": 29,
   "hard": 0
 }
