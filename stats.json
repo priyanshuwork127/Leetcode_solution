@@ -302,13 +302,19 @@
     },
     "3226-minimum-number-game": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:18:11.166Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:18:11.166Z",
       "title": "Minimum Number Game"
+    },
+    "1960-check-if-the-sentence-is-pangram": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T15:22:50.869Z",
+      "lang": "cpp",
+      "title": "Check if the Sentence Is Pangram"
     }
   },
-  "solved": 51,
-  "easy": 22,
+  "solved": 52,
+  "easy": 23,
   "medium": 29,
   "hard": 0
 }
