@@ -380,13 +380,19 @@
     },
     "1580-shuffle-the-array": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T17:31:43.550Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T17:31:43.550Z",
       "title": "Shuffle the Array"
+    },
+    "0485-max-consecutive-ones": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T17:32:19.713Z",
+      "lang": "cpp",
+      "title": "Max Consecutive Ones"
     }
   },
-  "solved": 64,
-  "easy": 33,
+  "solved": 65,
+  "easy": 34,
   "medium": 31,
   "hard": 0
 }
