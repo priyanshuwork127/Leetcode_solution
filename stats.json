@@ -320,13 +320,19 @@
     },
     "1610-xor-operation-in-an-array": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T15:31:18.996Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T15:31:18.996Z",
       "title": "XOR Operation in an Array"
+    },
+    "3312-number-of-changing-keys": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-25T15:36:51.585Z",
+      "lang": "cpp",
+      "title": "Number of Changing Keys"
     }
   },
-  "solved": 54,
-  "easy": 25,
+  "solved": 55,
+  "easy": 26,
   "medium": 29,
   "hard": 0
 }
