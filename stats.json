@@ -392,13 +392,19 @@
     },
     "3625-stone-removal-game": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-26T07:08:46.857Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-26T07:08:46.857Z",
       "title": "Stone Removal Game"
+    },
+    "2361-calculate-digit-sum-of-a-string": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-26T07:18:43.250Z",
+      "lang": "cpp",
+      "title": "Calculate Digit Sum of a String"
     }
   },
-  "solved": 66,
-  "easy": 35,
+  "solved": 67,
+  "easy": 36,
   "medium": 31,
   "hard": 0
 }
