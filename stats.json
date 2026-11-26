@@ -386,13 +386,19 @@
     },
     "0485-max-consecutive-ones": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-25T17:32:19.713Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-25T17:32:19.713Z",
       "title": "Max Consecutive Ones"
+    },
+    "3625-stone-removal-game": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-26T07:08:46.857Z",
+      "lang": "cpp",
+      "title": "Stone Removal Game"
     }
   },
-  "solved": 65,
-  "easy": 34,
+  "solved": 66,
+  "easy": 35,
   "medium": 31,
   "hard": 0
 }
