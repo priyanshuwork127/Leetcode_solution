@@ -398,13 +398,19 @@
     },
     "2361-calculate-digit-sum-of-a-string": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-26T07:18:43.250Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-26T07:18:43.250Z",
       "title": "Calculate Digit Sum of a String"
+    },
+    "2216-delete-the-middle-node-of-a-linked-list": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-26T09:18:10.533Z",
+      "lang": "cpp",
+      "title": "Delete the Middle Node of a Linked List"
     }
   },
-  "solved": 67,
+  "solved": 68,
   "easy": 36,
-  "medium": 31,
+  "medium": 32,
   "hard": 0
 }
