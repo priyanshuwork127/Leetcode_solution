@@ -404,13 +404,19 @@
     },
     "2216-delete-the-middle-node-of-a-linked-list": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-26T09:18:10.533Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-26T09:18:10.533Z",
       "title": "Delete the Middle Node of a Linked List"
+    },
+    "0230-kth-smallest-element-in-a-bst": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-27T09:00:40.155Z",
+      "lang": "cpp",
+      "title": "Kth Smallest Element in a BST"
     }
   },
-  "solved": 68,
+  "solved": 69,
   "easy": 36,
-  "medium": 32,
+  "medium": 33,
   "hard": 0
 }
