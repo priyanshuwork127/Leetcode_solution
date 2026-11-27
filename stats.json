@@ -410,7 +410,7 @@
     },
     "0230-kth-smallest-element-in-a-bst": {
       "difficulty": "Medium",
-      "solvedAt": "2026-11-27T09:00:40.155Z",
+      "solvedAt": "2026-11-27T09:15:06.679Z",
       "lang": "cpp",
       "title": "Kth Smallest Element in a BST"
     }
